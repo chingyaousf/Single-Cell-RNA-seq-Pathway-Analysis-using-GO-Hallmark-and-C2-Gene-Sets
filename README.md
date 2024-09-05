@@ -10,9 +10,7 @@
 
 -   **Data Sources**: Single-cell RNA-seq data.
 
--   **Gene Sets**: GO (Biological Process), Hallmark, and C2:CP
-
-    (Curated Pathways).
+-   **Gene Sets**: GO (Biological Process), Hallmark, and C2:CP (Curated Pathways).
 
 -   **Tools Used**:
 
@@ -30,9 +28,7 @@
 
     2.  Perform differential expression analysis (DEA) across clusters.
 
-    3.  Conduct enrichment analysis for GO, Hallmark, and C2
-
-        gene sets.
+    3.  Conduct enrichment analysis for GO, Hallmark, and C2:CP gene sets.
 
     4.  Visualize top pathways and annotate subset cell types.
 
@@ -50,7 +46,7 @@
 
     Execute the R scripts
 
-3.  **Visualize Results**: Plots are saved in the respective subdirectories under `pathway_analysis/`.
+3.  **Visualize Results**
 
 ### Results
 
@@ -60,13 +56,13 @@
 
 -   **Hallmark Gene Sets**:
 
-    -   Highlighted hallmark pathways relevant to the conditions studied.
+    -   Highlighted hallmark pathways across all clusters and specific clusters.
 
 -   **C2:CP**
 
     **Pathways**:
 
-    -   Provided insight into curated pathways involved in each cluster.
+    -   Provided insight into curated pathways involved in across all clusters and specific clusters.
 
 ### Future Directions
 
