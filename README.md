@@ -54,6 +54,22 @@
 
     -   Identified key biological processes across all clusters and specific clusters.
 
+        ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/GO/GO_Enrichment_Cluster_0_barplot_02.png?raw=true)
+
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/GO/GO_Enrichment_Cluster_0_dotplot_02.png?raw=true)
+
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/GO/top_10_GO_pathways_barplot_b_cell.png?raw=true)
+
+        ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/GO/top_10_hallmark_pathways_barplot_mono_mac.png?raw=true)
+
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/GO/top_10_pathways_barplot_nk_t_cell.png?raw=true)
+
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/GO/Top_10_GO_Pathways_heatmap_b_cell.png?raw=true)
+
+    -   
+
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/GO/Top_10_Pathways_heatmap_nk_t_cell.png?raw=true)![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/GO/Top_10_GO_Pathways_heatmap_mono_mac.png?raw=true)
+
 -   **Hallmark Gene Sets**:
 
     -   Highlighted hallmark pathways across all clusters and specific clusters.
