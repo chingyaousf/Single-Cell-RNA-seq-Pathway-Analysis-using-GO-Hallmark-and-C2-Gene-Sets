@@ -74,9 +74,25 @@
 
     -   Highlighted hallmark pathways across all clusters and specific clusters.
 
--   **C2:CP**
+        ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/hallmark/hallmark_Enrichment_Cluster_0_barplot_02.png?raw=true)
 
-    **Pathways**:
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/hallmark/hallmark_Enrichment_Cluster_0_dotplot_02.png?raw=true)
+
+    -   
+
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/hallmark/top_10_hallmark_pathways_barplot_b_cell.png?raw=true)
+
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/hallmark/top_10_hallmark_pathways_barplot_mono_mac.png?raw=true)
+
+        ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/hallmark/top_10_hallmark_pathways_barplot_nk_t_cell.png?raw=true)
+
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/hallmark/Top_10_hallmark_Pathways_heatmap_b_cell.png?raw=true)
+
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/hallmark/Top_10_hallmark_Pathways_heatmap_mono_mac.png?raw=true)
+
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/hallmark/Top_10_hallmark_Pathways_heatmap_nk_t_cell_viridis.png?raw=true)
+
+-   **C2:CP Pathways**:
 
     -   Provided insight into curated pathways involved in across all clusters and specific clusters.
 
