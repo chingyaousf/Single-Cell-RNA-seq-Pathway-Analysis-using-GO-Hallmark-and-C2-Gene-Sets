@@ -96,6 +96,10 @@
 
     -   Provided insight into curated pathways involved in across all clusters and specific clusters.
 
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/C2:CP/c2_cp_Enrichment_Cluster_0_barplot_02.png?raw=true)
+
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/C2:CP/c2_cp_Enrichment_Cluster_0_dotplot_02.png?raw=true)
+
 ### Future Directions
 
 -   Extend the analysis to additional gene sets or custom pathway databases.
