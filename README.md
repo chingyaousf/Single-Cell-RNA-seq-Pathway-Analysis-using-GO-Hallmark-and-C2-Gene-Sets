@@ -106,6 +106,8 @@
 
     -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/C2:CP/top_10_c2_cp_pathways_barplot_nk_t_cell.png?raw=true){width="3600"}![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/C2:CP/Top_10_c2_cp_Pathways_heatmap_b_cell.png?raw=true)
 
+    -   ![](https://github.com/chingyaousf/Single-Cell-RNA-seq-Pathway-Analysis-using-GO-Hallmark-and-C2-Gene-Sets/blob/main/plots/C2:CP/Top_10_c2_cp_Pathways_heatmap_mono_mac.png?raw=true)
+
 ### Future Directions
 
 -   Extend the analysis to additional gene sets or custom pathway databases.
